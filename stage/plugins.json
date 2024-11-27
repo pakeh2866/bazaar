@@ -1,6 +1,543 @@
 {
   "repos": [
     {
+      "url": "IAliceBobI/sy-progressive-plugin@04d14406db99e7c10c6555d015e469fd687fbd2e",
+      "updated": "2024-11-26T14:30:45Z",
+      "stars": 17,
+      "openIssues": 0,
+      "size": 1571417,
+      "installSize": 2912676,
+      "package": {
+        "name": "sy-progressive-plugin",
+        "author": "IAliceBobI",
+        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
+        "version": "1.2.15",
+        "minAppVersion": "2.12.6",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "Progressive Learning",
+          "zh_CN": "渐进学习",
+          "en_US": ""
+        },
+        "description": {
+          "default": "Excerpt-based Progressive Learning, Fragmented Progressive Learning, Writing-based Flashcards, List Cards, Daily Card",
+          "zh_CN": "摘抄式渐进学习、分片式渐进学习、原地制卡、列表卡、Daily Card",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.com/a/playerv5"
+          ]
+        },
+        "keywords": [
+          "Learning",
+          "Progressive",
+          "Progressive Learning",
+          "Progressive Reading",
+          "Progressive Writing"
+        ]
+      }
+    },
+    {
+      "url": "IAliceBobI/sy-tomato-plugin@10610859003739dfd48c18ac87e797f04db76c6b",
+      "updated": "2024-11-26T14:30:26Z",
+      "stars": 19,
+      "openIssues": 0,
+      "size": 1981451,
+      "installSize": 4041084,
+      "package": {
+        "name": "sy-tomato-plugin",
+        "author": "IAliceBobI",
+        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
+        "version": "2.5.18",
+        "minAppVersion": "3.0.3",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "Tomato Toolbox",
+          "zh_CN": "番茄工具箱",
+          "en_US": ""
+        },
+        "description": {
+          "default": "Pomodoro timer in status bar, block relationship graph, AI knowledge base Q\u0026A, quick capture with camera, streaming AI, database backlinks, footer backlinks, text to citation, flashcard priority, document merging, periodic reminders, reading points, bidirectional linking, card deletion during review, flashcard image cloze, move to today's notes, clean up expired flashcards",
+          "zh_CN": "状态栏番茄钟、块关系图、AI知识库问答、拍照闪念、流式AI、数据库反链、底部反链、文本转引用、闪卡优先级、文档合并、定期提醒、阅读点、双向互链、复习时删卡、闪卡图片挖空、移到今日笔记、清理失效闪卡",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.com/a/playerv5"
+          ]
+        },
+        "keywords": [
+          "TomatoClock",
+          "Time management",
+          "Productivity",
+          "Pomodoro technique",
+          "Timer plugin",
+          "Task scheduling",
+          "Focus sessions",
+          "Work intervals",
+          "Breaks",
+          "Time tracking",
+          "Timeboxing",
+          "Time optimization",
+          "Efficiency",
+          "Work-life balance",
+          "Distraction management",
+          "Task prioritization",
+          "Time blocking",
+          "Time visualization",
+          "Progress tracking",
+          "Goal setting"
+        ]
+      }
+    },
+    {
+      "url": "WingDr/siyuan-plugin-enhance-editor@72b5f3d55f1e7a42837a5d8247d5b8fe53b681b4",
+      "updated": "2024-11-26T13:26:18Z",
+      "stars": 2,
+      "openIssues": 1,
+      "size": 999769,
+      "installSize": 1776665,
+      "package": {
+        "name": "siyuan-plugin-enhance-editor",
+        "author": "WingDr",
+        "url": "https://github.com/WingDr/siyuan-plugin-enhance-editor",
+        "version": "0.0.8",
+        "minAppVersion": "3.1.10",
+        "backends": [
+          "windows",
+          "linux",
+          "darwin"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "Enhanced Editor",
+          "zh_CN": "编辑器增强",
+          "en_US": ""
+        },
+        "description": {
+          "default": "Enhance the KaTex editor of SiYuan.",
+          "zh_CN": "对现有的siyuan公式编辑器进行增强",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": null
+        },
+        "keywords": null
+      }
+    },
+    {
+      "url": "loonghfut/siyuan-alist@0dac061df7e97062f9e15ca4217a6bc312fbfe99",
+      "updated": "2024-11-26T13:19:20Z",
+      "stars": 24,
+      "openIssues": 1,
+      "size": 710445,
+      "installSize": 796205,
+      "package": {
+        "name": "siyuan-alist",
+        "author": "steve",
+        "url": "https://github.com/loonghfut/siyuan-alist",
+        "version": "0.1.5",
+        "minAppVersion": "3.0.12",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "desktop",
+          "mobile",
+          "browser-desktop",
+          "browser-mobile",
+          "desktop-window"
+        ],
+        "displayName": {
+          "default": "",
+          "zh_CN": "Alist附件管理",
+          "en_US": "Alist Attachment Management"
+        },
+        "description": {
+          "default": "",
+          "zh_CN": "联动Alist，实现大型附件管理，释放思源笔记空间",
+          "en_US": "Link Alist to achieve large attachment management and release the space of Siyuan notes"
+        },
+        "readme": {
+          "default": "",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            ""
+          ]
+        },
+        "keywords": [
+          "plugin",
+          "sample",
+          "alist",
+          "docker",
+          "file"
+        ]
+      }
+    },
+    {
+      "url": "terwer/siyuan-plugin-publisher@7b2805bc8025dc2c59e44a702ba58a767d6c92ee",
+      "updated": "2024-11-26T12:04:58Z",
+      "stars": 137,
+      "openIssues": 61,
+      "size": 22493068,
+      "installSize": 22514342,
+      "package": {
+        "name": "siyuan-plugin-publisher",
+        "author": "terwer",
+        "url": "https://github.com/terwer/siyuan-plugin-publisher",
+        "version": "1.28.0",
+        "minAppVersion": "2.9.0",
+        "backends": [
+          "windows",
+          "linux",
+          "darwin",
+          "docker",
+          "android",
+          "ios"
+        ],
+        "frontends": [
+          "desktop",
+          "desktop-window",
+          "mobile",
+          "browser-desktop",
+          "browser-mobile"
+        ],
+        "displayName": {
+          "default": "Publisher",
+          "zh_CN": "发布工具",
+          "en_US": ""
+        },
+        "description": {
+          "default": "Publish articles from siyuan-note to platforms like Yuque etc. \u003ccode class='fn__code'\u003eFree\u003c/code\u003e and \u003ccode class='fn__code'\u003eopen source\u003c/code\u003e.",
+          "zh_CN": "将思源笔记的文章发布到语雀等平台，\u003ccode class='fn__code'\u003e开源\u003c/code\u003e、\u003ccode class='fn__code'\u003e免费\u003c/code\u003e 。",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.net/a/terwer"
+          ]
+        },
+        "keywords": null
+      }
+    },
+    {
+      "url": "pakeh2866/sy-plugin-tab-close@7c1ff8bd2de3d6bd45b84ea573c0046dce9998e8",
+      "updated": "2024-11-26T11:28:05Z",
+      "stars": 0,
+      "openIssues": 0,
+      "size": 37043,
+      "installSize": 57698,
+      "package": {
+        "name": "siyuan-tab-manager",
+        "author": "pakeh",
+        "url": "https://github.com/pakeh2866/siyuan-tab-manager",
+        "version": "0.4.0",
+        "minAppVersion": "3.0.12",
+        "backends": [
+          "windows",
+          "linux",
+          "darwin",
+          "docker"
+        ],
+        "frontends": [
+          "desktop",
+          "browser-desktop",
+          "desktop-window"
+        ],
+        "displayName": {
+          "default": "",
+          "zh_CN": "标签页定时关闭",
+          "en_US": "Tab Manager"
+        },
+        "description": {
+          "default": "",
+          "zh_CN": "自动关闭不活跃的标签页，保持工作区整洁并节省资源。",
+          "en_US": "Automatically close inactive tabs to keep your workspace clean and save resources. Closed tabs can be easily restored."
+        },
+        "readme": {
+          "default": "",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            ""
+          ]
+        },
+        "keywords": [
+          "tab",
+          "manager",
+          "productivity",
+          "标签页",
+          "管理器",
+          "效率"
+        ]
+      }
+    },
+    {
+      "url": "zt8989/siyuan-drawio-plugin@9939be4b2506c0d70093c470e5d9fdccd66b48c3",
+      "updated": "2024-11-26T06:38:58Z",
+      "stars": 5,
+      "openIssues": 1,
+      "size": 31673259,
+      "installSize": 78131369,
+      "package": {
+        "name": "siyuan-drawio-plugin",
+        "author": "cowboy",
+        "url": "https://github.com/zt8989/siyuan-drawio-plugin",
+        "version": "0.1.18",
+        "minAppVersion": "3.0.12",
+        "backends": [
+          "windows",
+          "linux",
+          "darwin",
+          "docker",
+          "ios",
+          "android"
+        ],
+        "frontends": [
+          "desktop",
+          "mobile",
+          "browser-desktop",
+          "browser-mobile",
+          "desktop-window"
+        ],
+        "displayName": {
+          "default": "",
+          "zh_CN": "思源Draw.io插件",
+          "en_US": "Siyuan Draw.io Plugin"
+        },
+        "description": {
+          "default": "",
+          "zh_CN": "Draw.io以插件形式集成到思源中",
+          "en_US": "Draw.io integrated as a plugin into Siyuan"
+        },
+        "readme": {
+          "default": "",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            ""
+          ]
+        },
+        "keywords": [
+          "plugin",
+          "drawio"
+        ]
+      }
+    },
+    {
+      "url": "TinkMingKing/siyuan-plugins-index@dbf655dd0855bfbca0ca157761e326a236d1dbe7",
+      "updated": "2024-11-26T03:45:34Z",
+      "stars": 16,
+      "openIssues": 10,
+      "size": 168806,
+      "installSize": 276133,
+      "package": {
+        "name": "siyuan-plugins-index",
+        "author": "TinkMingKing",
+        "url": "https://github.com/TinkMingKing/siyuan-plugins-index",
+        "version": "1.5.8",
+        "minAppVersion": "2.10.12",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "Index Plugin",
+          "zh_CN": "目录插件",
+          "en_US": ""
+        },
+        "description": {
+          "default": "One click insert a index list in document",
+          "zh_CN": "一键在文档中插入目录或大纲列表",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.net/a/MingKing"
+          ]
+        },
+        "keywords": [
+          "index",
+          "目录"
+        ]
+      }
+    },
+    {
+      "url": "Wetoria/sy-plugin-enhance@e75a9f20d50e6dacd4b23cea237f944ed006403e",
+      "updated": "2024-11-25T21:33:03Z",
+      "stars": 9,
+      "openIssues": 2,
+      "size": 668407,
+      "installSize": 1187988,
+      "package": {
+        "name": "sy-plugin-enhance",
+        "author": "Wetoria",
+        "url": "https://github.com/Wetoria/sy-plugin-enhance",
+        "version": "0.28.5",
+        "minAppVersion": "3.0.10",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "zh_CN",
+          "zh_CN": "增强思源笔记",
+          "en_US": "sy-plugin-enhance"
+        },
+        "description": {
+          "default": "zh_CN",
+          "zh_CN": "增强思源笔记，在思源笔记中实现无压记录 LifeLog。",
+          "en_US": "A plugin to enhance Siyuan, let us write LifeLog in Siyuan without any pressure."
+        },
+        "readme": {
+          "default": "zh_CN",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.net/a/Wetoria"
+          ]
+        },
+        "keywords": []
+      }
+    },
+    {
+      "url": "Achuan-2/siyuan-plugin-blockref-footnote@df1ebadbc1ec7891b63667a4154799b99fdfada4",
+      "updated": "2024-11-25T16:00:29Z",
+      "stars": 14,
+      "openIssues": 2,
+      "size": 216046,
+      "installSize": 315354,
+      "package": {
+        "name": "siyuan-plugin-blockref-footnote",
+        "author": "Achuan-2",
+        "url": "https://github.com/Achuan-2/siyuan-plugin-blockref-footnote",
+        "version": "1.1.5",
+        "minAppVersion": "3.1.13",
+        "backends": [
+          "windows",
+          "linux",
+          "darwin",
+          "docker",
+          "ios",
+          "android"
+        ],
+        "frontends": [
+          "desktop",
+          "mobile",
+          "browser-desktop",
+          "browser-mobile",
+          "desktop-window"
+        ],
+        "displayName": {
+          "default": "",
+          "zh_CN": "块引脚注",
+          "en_US": "FootnoteRef"
+        },
+        "description": {
+          "default": "",
+          "zh_CN": "使用思源的块引实现脚注和备注功能",
+          "en_US": "Use blockref to implement footnote and memo"
+        },
+        "readme": {
+          "default": "",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://www.yuque.com/achuan-2"
+          ]
+        },
+        "keywords": [
+          "脚注",
+          "Footnote",
+          "备注",
+          "Memo"
+        ]
+      }
+    },
+    {
       "url": "kuangdongksk/siyuan-access-controller@aab37f6e0208cbcd794680c6c41e3100636eb5cb",
       "updated": "2024-11-25T10:31:28Z",
       "stars": 5,
@@ -60,127 +597,10 @@
       }
     },
     {
-      "url": "IAliceBobI/sy-progressive-plugin@c56a179ce80eb4afd87693567ec1bb0332a85e21",
-      "updated": "2024-11-25T09:24:19Z",
-      "stars": 17,
-      "openIssues": 0,
-      "size": 1570963,
-      "installSize": 2910250,
-      "package": {
-        "name": "sy-progressive-plugin",
-        "author": "IAliceBobI",
-        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
-        "version": "1.2.8",
-        "minAppVersion": "2.12.6",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "Progressive Learning",
-          "zh_CN": "渐进学习",
-          "en_US": ""
-        },
-        "description": {
-          "default": "Excerpt-based Progressive Learning, Fragmented Progressive Learning, Writing-based Flashcards, List Cards, Daily Card",
-          "zh_CN": "摘抄式渐进学习、分片式渐进学习、原地制卡、列表卡、Daily Card",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.com/a/playerv5"
-          ]
-        },
-        "keywords": [
-          "Learning",
-          "Progressive",
-          "Progressive Learning",
-          "Progressive Reading",
-          "Progressive Writing"
-        ]
-      }
-    },
-    {
-      "url": "IAliceBobI/sy-tomato-plugin@11546235aac32216753185ca173c46c4d76ae60d",
-      "updated": "2024-11-25T09:23:54Z",
-      "stars": 19,
-      "openIssues": 0,
-      "size": 1980788,
-      "installSize": 4039058,
-      "package": {
-        "name": "sy-tomato-plugin",
-        "author": "IAliceBobI",
-        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
-        "version": "2.5.9",
-        "minAppVersion": "3.0.3",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "Tomato Toolbox",
-          "zh_CN": "番茄工具箱",
-          "en_US": ""
-        },
-        "description": {
-          "default": "Pomodoro timer in status bar, block relationship graph, AI knowledge base Q\u0026A, quick capture with camera, streaming AI, database backlinks, footer backlinks, text to citation, flashcard priority, document merging, periodic reminders, reading points, bidirectional linking, card deletion during review, flashcard image cloze, move to today's notes, clean up expired flashcards",
-          "zh_CN": "状态栏番茄钟、块关系图、AI知识库问答、拍照闪念、流式AI、数据库反链、底部反链、文本转引用、闪卡优先级、文档合并、定期提醒、阅读点、双向互链、复习时删卡、闪卡图片挖空、移到今日笔记、清理失效闪卡",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.com/a/playerv5"
-          ]
-        },
-        "keywords": [
-          "TomatoClock",
-          "Time management",
-          "Productivity",
-          "Pomodoro technique",
-          "Timer plugin",
-          "Task scheduling",
-          "Focus sessions",
-          "Work intervals",
-          "Breaks",
-          "Time tracking",
-          "Timeboxing",
-          "Time optimization",
-          "Efficiency",
-          "Work-life balance",
-          "Distraction management",
-          "Task prioritization",
-          "Time blocking",
-          "Time visualization",
-          "Progress tracking",
-          "Goal setting"
-        ]
-      }
-    },
-    {
       "url": "terwerinc/siyuan-plugin-share-pro@ba2691b454b297fc0fcc14530a5f4d06a6742e93",
       "updated": "2024-11-25T08:07:41Z",
       "stars": 5,
-      "openIssues": 21,
+      "openIssues": 22,
       "size": 2816368,
       "installSize": 2827352,
       "package": {
@@ -281,123 +701,9 @@
       }
     },
     {
-      "url": "Achuan-2/siyuan-plugin-blockref-footnote@3b301fe1b058af242504adca7e523c939cce407c",
-      "updated": "2024-11-25T01:50:58Z",
-      "stars": 13,
-      "openIssues": 2,
-      "size": 216007,
-      "installSize": 315262,
-      "package": {
-        "name": "siyuan-plugin-blockref-footnote",
-        "author": "Achuan-2",
-        "url": "https://github.com/Achuan-2/siyuan-plugin-blockref-footnote",
-        "version": "1.1.4",
-        "minAppVersion": "3.1.13",
-        "backends": [
-          "windows",
-          "linux",
-          "darwin",
-          "docker",
-          "ios",
-          "android"
-        ],
-        "frontends": [
-          "desktop",
-          "mobile",
-          "browser-desktop",
-          "browser-mobile",
-          "desktop-window"
-        ],
-        "displayName": {
-          "default": "",
-          "zh_CN": "块引脚注",
-          "en_US": "FootnoteRef"
-        },
-        "description": {
-          "default": "",
-          "zh_CN": "使用思源的块引实现脚注和备注功能",
-          "en_US": "Use blockref to implement footnote and memo"
-        },
-        "readme": {
-          "default": "",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://www.yuque.com/achuan-2"
-          ]
-        },
-        "keywords": [
-          "脚注",
-          "Footnote",
-          "备注",
-          "Memo"
-        ]
-      }
-    },
-    {
-      "url": "loonghfut/siyuan-alist@58d3b65bc43608051601daa3afca741c4c18d4be",
-      "updated": "2024-11-24T10:56:38Z",
-      "stars": 24,
-      "openIssues": 1,
-      "size": 709912,
-      "installSize": 794805,
-      "package": {
-        "name": "siyuan-alist",
-        "author": "steve",
-        "url": "https://github.com/loonghfut/siyuan-alist",
-        "version": "0.1.3",
-        "minAppVersion": "3.0.12",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "desktop",
-          "mobile",
-          "browser-desktop",
-          "browser-mobile",
-          "desktop-window"
-        ],
-        "displayName": {
-          "default": "",
-          "zh_CN": "Alist附件管理",
-          "en_US": "Alist Attachment Management"
-        },
-        "description": {
-          "default": "",
-          "zh_CN": "联动Alist，实现大型附件管理，释放思源笔记空间",
-          "en_US": "Link Alist to achieve large attachment management and release the space of Siyuan notes"
-        },
-        "readme": {
-          "default": "",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            ""
-          ]
-        },
-        "keywords": [
-          "plugin",
-          "sample",
-          "alist",
-          "docker",
-          "file"
-        ]
-      }
-    },
-    {
       "url": "Misuzu2027/syplugin-backlink-panel@d43c4a4c44dff4b05f1bbc194ced690bab3bcbeb",
       "updated": "2024-11-24T09:43:09Z",
-      "stars": 8,
+      "stars": 9,
       "openIssues": 4,
       "size": 110173,
       "installSize": 227255,
@@ -475,63 +781,9 @@
       }
     },
     {
-      "url": "terwer/siyuan-plugin-publisher@142df0bb1c24ac272d46a8cd96dee73ff02fd8e6",
-      "updated": "2024-11-22T07:18:10Z",
-      "stars": 136,
-      "openIssues": 70,
-      "size": 22487153,
-      "installSize": 22508427,
-      "package": {
-        "name": "siyuan-plugin-publisher",
-        "author": "terwer",
-        "url": "https://github.com/terwer/siyuan-plugin-publisher",
-        "version": "1.25.1",
-        "minAppVersion": "2.9.0",
-        "backends": [
-          "windows",
-          "linux",
-          "darwin",
-          "docker",
-          "android",
-          "ios"
-        ],
-        "frontends": [
-          "desktop",
-          "desktop-window",
-          "mobile",
-          "browser-desktop",
-          "browser-mobile"
-        ],
-        "displayName": {
-          "default": "Publisher",
-          "zh_CN": "发布工具",
-          "en_US": ""
-        },
-        "description": {
-          "default": "Publish articles from siyuan-note to platforms like Yuque etc. \u003ccode class='fn__code'\u003eFree\u003c/code\u003e and \u003ccode class='fn__code'\u003eopen source\u003c/code\u003e.",
-          "zh_CN": "将思源笔记的文章发布到语雀等平台，\u003ccode class='fn__code'\u003e开源\u003c/code\u003e、\u003ccode class='fn__code'\u003e免费\u003c/code\u003e 。",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.net/a/terwer"
-          ]
-        },
-        "keywords": null
-      }
-    },
-    {
       "url": "terwer/siyuan-plugin-picgo@f314bc08a1b99bab35d1e695ba76d1f772da4239",
       "updated": "2024-11-22T07:04:52Z",
-      "stars": 18,
+      "stars": 20,
       "openIssues": 48,
       "size": 14666144,
       "installSize": 14703502,
@@ -585,8 +837,8 @@
     {
       "url": "Zuoqiu-Yingyi/siyuan-plugin-custom-block@084c581d74a10f1731821e1a2eef1ffe1858aba6",
       "updated": "2024-11-20T17:51:47Z",
-      "stars": 13,
-      "openIssues": 13,
+      "stars": 14,
+      "openIssues": 14,
       "size": 161020,
       "installSize": 408085,
       "package": {
@@ -758,51 +1010,6 @@
           ]
         },
         "keywords": null
-      }
-    },
-    {
-      "url": "Wetoria/sy-plugin-enhance@27b9eaabfd738acbdf4e92c47c2760f830e44803",
-      "updated": "2024-11-19T12:01:37Z",
-      "stars": 9,
-      "openIssues": 2,
-      "size": 667883,
-      "installSize": 1186523,
-      "package": {
-        "name": "sy-plugin-enhance",
-        "author": "Wetoria",
-        "url": "https://github.com/Wetoria/sy-plugin-enhance",
-        "version": "0.28.3",
-        "minAppVersion": "3.0.10",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "zh_CN",
-          "zh_CN": "增强思源笔记",
-          "en_US": "sy-plugin-enhance"
-        },
-        "description": {
-          "default": "zh_CN",
-          "zh_CN": "增强思源笔记，在思源笔记中实现无压记录 LifeLog。",
-          "en_US": "A plugin to enhance Siyuan, let us write LifeLog in Siyuan without any pressure."
-        },
-        "readme": {
-          "default": "zh_CN",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.net/a/Wetoria"
-          ]
-        },
-        "keywords": []
       }
     },
     {
@@ -1066,8 +1273,8 @@
     {
       "url": "frostime/sy-docs-flow@0768e69f5513673fc487789ab268e4d90ebeaa79",
       "updated": "2024-11-17T10:48:08Z",
-      "stars": 7,
-      "openIssues": 7,
+      "stars": 8,
+      "openIssues": 8,
       "size": 278225,
       "installSize": 346429,
       "package": {
@@ -1110,63 +1317,6 @@
           ]
         },
         "keywords": null
-      }
-    },
-    {
-      "url": "zt8989/siyuan-drawio-plugin@2cc099aec5af4518ae23477b97cd63cdaee30880",
-      "updated": "2024-11-16T14:45:02Z",
-      "stars": 5,
-      "openIssues": 1,
-      "size": 31671036,
-      "installSize": 78117383,
-      "package": {
-        "name": "siyuan-drawio-plugin",
-        "author": "cowboy",
-        "url": "https://github.com/zt8989/siyuan-drawio-plugin",
-        "version": "0.1.14",
-        "minAppVersion": "3.0.12",
-        "backends": [
-          "windows",
-          "linux",
-          "darwin",
-          "docker",
-          "ios",
-          "android"
-        ],
-        "frontends": [
-          "desktop",
-          "mobile",
-          "browser-desktop",
-          "browser-mobile",
-          "desktop-window"
-        ],
-        "displayName": {
-          "default": "",
-          "zh_CN": "思源Draw.io插件",
-          "en_US": "Siyuan Draw.io Plugin"
-        },
-        "description": {
-          "default": "",
-          "zh_CN": "Draw.io以插件形式集成到思源中",
-          "en_US": "Draw.io integrated as a plugin into Siyuan"
-        },
-        "readme": {
-          "default": "",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            ""
-          ]
-        },
-        "keywords": [
-          "plugin",
-          "drawio"
-        ]
       }
     },
     {
@@ -1404,51 +1554,6 @@
       }
     },
     {
-      "url": "WingDr/siyuan-plugin-enhance-editor@0a60adc823db99fc93691b10816c1aa2eaa460cf",
-      "updated": "2024-11-09T05:09:56Z",
-      "stars": 1,
-      "openIssues": 3,
-      "size": 999701,
-      "installSize": 1776448,
-      "package": {
-        "name": "siyuan-plugin-enhance-editor",
-        "author": "WingDr",
-        "url": "https://github.com/WingDr/siyuan-plugin-enhance-editor",
-        "version": "0.0.7",
-        "minAppVersion": "3.1.10",
-        "backends": [
-          "windows",
-          "linux",
-          "darwin"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "Enhanced Editor",
-          "zh_CN": "编辑器增强",
-          "en_US": ""
-        },
-        "description": {
-          "default": "Enhance the KaTex editor of SiYuan.",
-          "zh_CN": "对现有的siyuan公式编辑器进行增强",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": null
-        },
-        "keywords": null
-      }
-    },
-    {
       "url": "anarion80/siyuan-bullet-threading@2d2aa5b2636da7379143402a8ce6ab195d6698ad",
       "updated": "2024-11-08T10:53:18Z",
       "stars": 2,
@@ -1609,7 +1714,7 @@
       "url": "siyuan-note/plugin-sample@de54ec97f19f0504cb95f12bb6888824edb238c6",
       "updated": "2024-11-05T09:01:02Z",
       "stars": 30,
-      "openIssues": 1,
+      "openIssues": 0,
       "size": 22942,
       "installSize": 56695,
       "package": {
@@ -2138,63 +2243,6 @@
       }
     },
     {
-      "url": "Macavity/siyuan-database-properties-panel@61b081c7cbbd56a0c8e6d36700270313a60c9eb7",
-      "updated": "2024-10-22T19:17:19Z",
-      "stars": 7,
-      "openIssues": 6,
-      "size": 361479,
-      "installSize": 961022,
-      "package": {
-        "name": "siyuan-database-properties-panel",
-        "author": "Macavity",
-        "url": "https://github.com/Macavity/siyuan-database-properties-panel",
-        "version": "0.4.4",
-        "minAppVersion": "3.0.12",
-        "backends": [
-          "windows",
-          "linux",
-          "darwin",
-          "docker",
-          "ios",
-          "android"
-        ],
-        "frontends": [
-          "desktop",
-          "mobile",
-          "browser-desktop",
-          "browser-mobile",
-          "desktop-window"
-        ],
-        "displayName": {
-          "default": "",
-          "zh_CN": "数据库属性面板",
-          "en_US": "Database Properties Panel"
-        },
-        "description": {
-          "default": "",
-          "zh_CN": "提供一个面板，用于查看从数据库创建的页面的数据库属性。",
-          "en_US": "Provides a panel to view database properties of a page created from a database."
-        },
-        "readme": {
-          "default": "",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": null
-        },
-        "keywords": [
-          "plugin",
-          "database",
-          "properties",
-          "attributes"
-        ]
-      }
-    },
-    {
       "url": "frostime/sy-bind-mdfile@430c00bb7ab8775422fc1be266f4e2f6765a951b",
       "updated": "2024-10-20T13:14:18Z",
       "stars": 3,
@@ -2648,7 +2696,7 @@
       "url": "chenshinshi/link-icon@9ef49a0495e47f86f681cb23ee8edb1498753d25",
       "updated": "2024-10-14T00:28:20Z",
       "stars": 8,
-      "openIssues": 8,
+      "openIssues": 9,
       "size": 755089,
       "installSize": 1590110,
       "package": {
@@ -4040,7 +4088,7 @@
     {
       "url": "zxkmm/siyuan_doctree_compress@56317043b89a46ee678310338684fdfe6270617d",
       "updated": "2024-08-27T16:01:45Z",
-      "stars": 107,
+      "stars": 108,
       "openIssues": 15,
       "size": 68811,
       "installSize": 111796,
@@ -4209,7 +4257,7 @@
     {
       "url": "jzmanu/siyuan-icon-tools@d316f8084863233ca1a187d29885a941eb51a15f",
       "updated": "2024-08-18T08:44:31Z",
-      "stars": 3,
+      "stars": 4,
       "openIssues": 0,
       "size": 430654,
       "installSize": 466370,
@@ -5488,54 +5536,6 @@
           ]
         },
         "keywords": null
-      }
-    },
-    {
-      "url": "TinkMingKing/siyuan-plugins-index@9bad4b005691a4924b3ed9df40f38acbf8cb2d92",
-      "updated": "2024-06-04T02:58:17Z",
-      "stars": 16,
-      "openIssues": 10,
-      "size": 166431,
-      "installSize": 268001,
-      "package": {
-        "name": "siyuan-plugins-index",
-        "author": "TinkMingKing",
-        "url": "https://github.com/TinkMingKing/siyuan-plugins-index",
-        "version": "1.5.7",
-        "minAppVersion": "2.10.12",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "Index Plugin",
-          "zh_CN": "目录插件",
-          "en_US": ""
-        },
-        "description": {
-          "default": "One click insert a index list in document",
-          "zh_CN": "一键在文档中插入目录或大纲列表",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.net/a/MingKing"
-          ]
-        },
-        "keywords": [
-          "index",
-          "目录"
-        ]
       }
     },
     {
@@ -9878,7 +9878,7 @@
     {
       "url": "terwer/siyuan-plugin-kanban-girl@d4d9667549f4004a85d57fff9fe0ef8b908b75d9",
       "updated": "2023-06-08T17:09:57Z",
-      "stars": 3,
+      "stars": 5,
       "openIssues": 15,
       "size": 4081395,
       "installSize": 4113055,
